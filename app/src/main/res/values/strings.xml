@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">izotov_Jetpack_Compose</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_thrird">ThrirdActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+</resources>
